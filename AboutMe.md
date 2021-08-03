@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vlad Yankov
+- 👀 I’m interested in web-development.
+- 🌱 I’m currently learning React.js
